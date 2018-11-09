@@ -8,7 +8,7 @@ The inventory system consists of three components:
 I also add a personal design challenge to all the games I make, for this one, the challenge is to make what is 
 essentially a platformer, but with no jumping ability.
 
-To be added soon to this GitHub directory soon:
+To be added to this GitHub directory soon:
 
 - Stamina management system for the player so that she cannot run indefinitely.
 - A fully playable demo.
