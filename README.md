@@ -1,5 +1,4 @@
-#Project Cursed
-
+# Project Cursed
 I am developing a 2D thriller which incorporates an inventory system. 
 The inventory system consists of three components: 
 - A Dictionary object which acts as the game’s database containing all the different items. 
