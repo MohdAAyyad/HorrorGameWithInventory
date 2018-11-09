@@ -1,5 +1,4 @@
-# HorrorGameWithInventory
-Project Cursed
+#Project Cursed
 
 I am developing a 2D thriller which incorporates an inventory system. 
 The inventory system consists of three components: 
